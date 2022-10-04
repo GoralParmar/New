@@ -9,14 +9,14 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="80sp"
-            android:hint="Name"
-            android:textSize="40sp"
-            android:id="@+id/e1"
-            android:importantForAutofill="no"
-            tools:ignore="HardcodedText,TextFields" />
+<!--        <EditText-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="80sp"-->
+<!--            android:hint="Name"-->
+<!--            android:textSize="40sp"-->
+<!--            android:id="@+id/e1"-->
+<!--            android:importantForAutofill="no"-->
+<!--            tools:ignore="HardcodedText,TextFields" />-->
         <EditText
             android:layout_width="match_parent"
             android:layout_height="80sp"
